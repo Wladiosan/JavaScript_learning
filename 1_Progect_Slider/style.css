@@ -1,0 +1,11 @@
+.mainSlider {
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.mainSlider img {
+    width: 200px;
+    height: 200px;
+}
