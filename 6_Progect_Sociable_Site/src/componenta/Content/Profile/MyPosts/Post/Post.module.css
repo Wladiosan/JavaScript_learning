@@ -7,3 +7,12 @@
     height: 50px;
     border-radius: 50%;
 }
+
+.itemProf div {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.itemLike {
+    padding: 5px;
+}
