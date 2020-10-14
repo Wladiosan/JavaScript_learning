@@ -9,7 +9,8 @@ const Post = (props) => {
                 {props.message}
             </div>
             <div className={s.itemLike}>
-                <span>Like</span>
+                <span>Like: </span>
+                <span>{props.counterLike}</span>
             </div>
         </div>
     )
