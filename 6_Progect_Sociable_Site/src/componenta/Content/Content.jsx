@@ -10,8 +10,8 @@ import Settings from "./Settings/Settings";
 const Content = (props) => {
     return (
         <div className={s.content}>
-            <Route path='/profile' render={() => <Profile posts={props.posts}/>} /*component={Dialogs}*//>
-            <Route path='/dialogs' render={() => <Dialogs dialogs={props.dialogs} messages={props.messages}/>}/>
+            <Route path='/profile' render={() => <Profile state={props.state.profilePage}/>}/>
+            <Route path='/dialogs' render={() => <Dialogs state={props.state.dialogsPage}/>}/>
             <Route path='/news' render={() => <News/>} /*component={News}*//>
             <Route path='/music' render={() => <Music/>} /*component={Music}*//>
             <Route path='/settings' render={() => <Settings/>} /*component={Settings}*//>
