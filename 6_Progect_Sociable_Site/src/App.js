@@ -9,7 +9,7 @@ function App(props) {
             <div className='app-wrapper'>
                 <Header/>
                 <Navbar/>
-                <Content state={props.state}/>
+                <Content state={props.state} addPost={props.addPost}/>
             </div>
     );
 }
