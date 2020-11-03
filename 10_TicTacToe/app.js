@@ -15,10 +15,10 @@ function check() {
 
     for (var i = 0; i < arr.length; i++) {
         if (boxEl[arr[i][0]].innerHTML === 'X' && boxEl[arr[i][1]].innerHTML === 'X' && boxEl[arr[i][2]].innerHTML === 'X') {
-            alert('Win X')
+            alert('WIN X')
         } else if (boxEl[arr[i][0]].innerHTML === 'O' && boxEl[arr[i][1]].innerHTML === 'O' && boxEl[arr[i][2]].innerHTML === 'O') {
-            alert('Win O')
-        }
+            alert('WIN O')
+        } else alert('DRAW WINS')
     }
 }
 
