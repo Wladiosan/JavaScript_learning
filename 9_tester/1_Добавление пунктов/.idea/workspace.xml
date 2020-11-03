@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="639f66be-f285-409c-b28d-a65eb3beb3e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../1_Add-List-Item/.idea/1_Добавление пунктов.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_Add-List-Item/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_Add-List-Item/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_Add-List-Item/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2_Подсветка кнопок/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2_Подсветка кнопок/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2_Подсветка кнопок/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8_qwe/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../8_qwe/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Подсветка кнопок/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Подсветка кнопок/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Подсветка кнопок/index.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1jbs7C7zinTPDiFJpN0EfI17XZA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="639f66be-f285-409c-b28d-a65eb3beb3e6" name="Default Changelist" comment="" />
+      <created>1604083956122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604083956122</updated>
+      <workItem from="1604083957526" duration="255000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
