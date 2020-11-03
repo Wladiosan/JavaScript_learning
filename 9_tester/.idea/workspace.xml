@@ -20,12 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec85859f-d7b3-4c54-99bd-1fbb5d5f1be0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../8_qwe/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../8_qwe/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Подсветка кнопок/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Подсветка кнопок/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_Подсветка кнопок/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../8_qwe/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../8_qwe/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Подсветка кнопок/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Подсветка кнопок/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Подсветка кнопок/index.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +57,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604080333764</updated>
-      <workItem from="1604080335454" duration="1032000" />
+      <workItem from="1604080335454" duration="1106000" />
+      <workItem from="1604084975591" duration="2000" />
     </task>
     <servers />
   </component>
@@ -72,5 +75,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

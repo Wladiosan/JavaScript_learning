@@ -13,15 +13,9 @@ export default class App extends Component {
         return (
             <div className="container">
                 <h1>Todo app</h1>
-
                 <div className="input-field">
                     <input type="text"/><label>Todo name</label>
                 </div>
-
-                <div className="input-field">
-                    <input type="text"/><label>Todo name</label>
-                </div>
-
                 <TodoList todos={this.state.todos}/>
             </div>
         );
