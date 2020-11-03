@@ -18,7 +18,7 @@ function check() {
             alert('WIN X')
         } else if (boxEl[arr[i][0]].innerHTML === 'O' && boxEl[arr[i][1]].innerHTML === 'O' && boxEl[arr[i][2]].innerHTML === 'O') {
             alert('WIN O')
-        } else alert('DRAW WINS')
+        }
     }
 }
 
