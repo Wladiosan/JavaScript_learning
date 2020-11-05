@@ -56,6 +56,7 @@ function newGame() {
             item.classList.remove('x', 'o', 'active')
         }
     )
+    game.addEventListener('click', init)
 }
 
 function win() {
@@ -101,5 +102,6 @@ res.innerText = 'Новая Игра!'
 stepInfo.innerText = 'Ваш ход: Х'
 stepInfo.classList.add('red')
 
-btnGame.addEventListener('click', newGame)
 game.addEventListener('click', init)
+btnGame.addEventListener('click', newGame)
+

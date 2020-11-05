@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6509833a-e110-4d60-9a7b-deb53dfcf215" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicTacToe v.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TicTacToe v.3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicTacToe v.3/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../TicTacToe v.3/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +39,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -51,7 +59,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604431457965</updated>
-      <workItem from="1604431460128" duration="15548000" />
+      <workItem from="1604431460128" duration="15619000" />
+      <workItem from="1604585449088" duration="79000" />
+      <workItem from="1604585663530" duration="1635000" />
+      <workItem from="1604591356267" duration="7160000" />
     </task>
     <servers />
   </component>
@@ -68,5 +79,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
