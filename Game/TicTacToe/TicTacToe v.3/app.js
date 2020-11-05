@@ -43,7 +43,6 @@ function init(e) {
     else stepZero(e.target)
     step = !step
     win()
-    console.log(game.querySelectorAll('.x'));
 }
 
 function newGame() {
@@ -52,7 +51,7 @@ function newGame() {
     res.innerText = 'Новая Игра!'
     stepInfo.innerText = 'Ваш ход: Х'
     stepInfo.classList.add('red')
-    boxes.forEach((item) => {
+    boxes.forEach(item => {
             item.innerHTML = ''
             item.classList.remove('x', 'o', 'active')
         }
@@ -61,14 +60,7 @@ function newGame() {
 
 function win() {
     comb = [
-        [0, 1, 2],
-        [3, 4, 5],
-        [6, 7, 8],
-        [0, 3, 6],
-        [1, 4, 7],
-        [2, 5, 8],
-        [0, 4, 8],
-        [2, 4, 6]
+        [0, 1, 2], [3, 4, 5], [6, 7, 8], [0, 3, 6], [1, 4, 7], [2, 5, 8], [0, 4, 8], [2, 4, 6]
     ]
 
     for (let i = 0; i < boxes.length; i++) {
@@ -97,7 +89,7 @@ function win() {
         } else if (count === 9) {
             setTimeout(() => {
                 res.innerText = 'Победила Ничья'
-            }, 500)
+            }, 1500)
             stepInfo.innerText = ''
             game.removeEventListener('click', init)
         }
@@ -108,5 +100,6 @@ function win() {
 res.innerText = 'Новая Игра!'
 stepInfo.innerText = 'Ваш ход: Х'
 stepInfo.classList.add('red')
+
 btnGame.addEventListener('click', newGame)
 game.addEventListener('click', init)
