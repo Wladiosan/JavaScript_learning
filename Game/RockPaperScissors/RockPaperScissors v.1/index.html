@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>RockPaperScissors</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+<div class="game-wrapper">
+    <div class="game">
+        <h1>Камень - Ножницы - Бумага</h1>
+        <div class="counter-block">
+            <div class="count count-user">0</div>
+            <span class="count">:</span>
+            <div class="count count-pc">0</div>
+        </div>
+        <div class="figure-container">
+            <div class="user-field">
+                <button class="field rock" date-field="r"></button>
+                <button class="field scissors" date-field="s"></button>
+                <button class="field paper" date-field="p"></button>
+            </div>
+            <div class="pc-field">
+                <button class="field rock" date-field="r"></button>
+                <button class="field scissors" date-field="s"></button>
+                <button class="field paper" date-field="p"></button>
+            </div>
+        </div>
+        <div class="result">Сделайте выбор</div>
+    </div>
+    <div class="buttons">
+        <button class="button">Новая Игра</button>
+    </div>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
