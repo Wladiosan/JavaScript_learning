@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70ee35da-9be1-4a48-8633-46cf5d576cf2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/Menu.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/Menu.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/MenuLogo/MenuLogo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/MenuLogo/MenuLogo.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/MenuLogo/menu_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/MenuNav/MenuNav.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/MenuNav/MenuNav.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test004.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Site/Sociable Site v.0/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Site/Sociable Site v.0/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1jtM9Z0NPAJYktbFTa4pXg0BSNq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70ee35da-9be1-4a48-8633-46cf5d576cf2" name="Default Changelist" comment="" />
+      <created>1604618783460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604618783460</updated>
+      <workItem from="1604618784739" duration="1164000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
