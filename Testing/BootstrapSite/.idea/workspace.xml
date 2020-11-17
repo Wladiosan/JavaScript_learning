@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75edbc44-c711-4fcc-8280-39fbe20c0be9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Content/ContentBlockInfo/ContentBlockInfo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Content/ContentBlockInfo/ContentBlockInfo.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Content/ContentBlockInfo/images/content_block_info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Content/ContentLogo/ContentLogo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Content/ContentLogo/ContentLogo.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/MenuInfo/InfoInsta/InfoInsta.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/MenuInfo/InfoInsta/InfoInsta.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/MenuInfo/InfoPhone/InfoPhone.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/MenuInfo/InfoPhone/InfoPhone.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/MenuNav/NavButton/NavButton.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Content/Content.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Content/Content.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Content/Content.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Content/Content.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Content/images/topbackground.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Content/ContentLogo/images/topbackground.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/Menu.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/Menu.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/MenuInfo/MenuInfo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/MenuInfo/MenuInfo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/MenuInfo/MenuInfo.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/MenuInfo/MenuInfo.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/MenuInfo/images/insta.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/MenuInfo/InfoInsta/images/insta.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/MenuNav/MenuNav.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/MenuNav/MenuNav.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/MenuNav/MenuNav.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Site/RedRak.ru/RedRak_v.1/src/Component/Menu/MenuNav/MenuNav.module.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1k3A5S3r6MslkEulhIcVqME1nE5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75edbc44-c711-4fcc-8280-39fbe20c0be9" name="Default Changelist" comment="" />
+      <created>1604918725616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604918725616</updated>
+      <workItem from="1604918731114" duration="3506000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

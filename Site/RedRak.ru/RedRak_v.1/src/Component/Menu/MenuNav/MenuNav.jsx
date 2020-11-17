@@ -1,15 +1,16 @@
 import React from 'react'
 import s from "./MenuNav.module.css";
+import NavButton from "./NavButton/NavButton";
 
 function MenuNav (){
     return (
         <div className={s.menu_nav}>
-                <a><div>РАКИ</div></a>
-                <a><div>БУКЕТЫ</div></a>
-                <a><div>ОТЗЫВЫ</div></a>
-                <a><div>ДОСТАВКА</div></a>
-                <a><div>НОВОСТИ</div></a>
-                <a><div>КОНТАКТЫ</div></a>
+            <NavButton nameBtn='РАКИ'/>
+            <NavButton nameBtn='БУКЕТЫ'/>
+            <NavButton nameBtn='ОТЗЫВЫ'/>
+            <NavButton nameBtn='ДОСТАВКА'/>
+            <NavButton nameBtn='НОВОСТИ'/>
+            <NavButton nameBtn='КОНТАКТЫ'/>
         </div>
     )
 }

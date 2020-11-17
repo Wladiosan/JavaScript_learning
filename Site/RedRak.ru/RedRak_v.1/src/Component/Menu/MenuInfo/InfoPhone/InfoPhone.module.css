@@ -1,0 +1,28 @@
+.info_phone {
+    width: 80%;
+    border: 1px white;
+    display: block;
+    padding-right: 30px;
+}
+
+.info_phone .phone_number {
+    text-decoration: underline;
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 27px;
+}
+
+.info_phone .phone_text {
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+}
+
+.info_phone .phone_number a {
+    color: white;
+    text-decoration: none;
+}
+
+.info_phone .phone_number a:hover{
+    transition-delay: 100ms;
+    color: red;
+}

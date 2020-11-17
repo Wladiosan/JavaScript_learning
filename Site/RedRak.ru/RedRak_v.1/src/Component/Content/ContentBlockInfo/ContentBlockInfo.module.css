@@ -1,0 +1,19 @@
+.content_block_info {
+    display: flex;
+    height: 150px;
+    width: 100%;
+}
+
+.content_block_info .block_info_left {
+    height: 150px;
+    width: 20%;
+}
+
+.content_block_info .block_info_left img {
+    width: 100px;
+    height: 100px;
+}
+
+.content_block_info .block_info_right {
+
+}

@@ -1,16 +1,13 @@
 import React from 'react'
 import s from "./MenuInfo.module.css";
-import insta from './images/insta.png'
+import InfoPhone from "./InfoPhone/InfoPhone";
+import InfoInsta from "./InfoInsta/InfoInsta";
 
 function MenuInfo(){
     return(
         <div className={s.menu_info}>
-            <div className={s.info_phone}>1</div>
-            <div className={s.info_insta}>
-                <div className={s.insta_square}>
-                    <a href='#'><img src={insta} /></a>
-                </div>
-            </div>
+            <InfoPhone />
+            <InfoInsta />
         </div>
     )
 }

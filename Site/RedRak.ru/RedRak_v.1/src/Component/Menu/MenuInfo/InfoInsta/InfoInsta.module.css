@@ -1,0 +1,16 @@
+.info_insta{
+    width: 20%;
+}
+
+.info_insta .insta_square {
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: white;
+    border-radius: 30%;
+}
+
+.info_insta .insta_square img {
+    height: 30px;
+    width: 30px;
+}
