@@ -21,6 +21,12 @@
   <component name="ChangeListManager">
     <list default="true" id="b47fc3cf-89a5-493c-a11c-a528b417e28e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../PhoneApp/TodoAppList" beforeDir="false" afterPath="$PROJECT_DIR$/../../PhoneApp/TodoAppList" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/btstrp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/btstrp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media-queries.css" beforeDir="false" afterPath="$PROJECT_DIR$/media-queries.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606119446521</updated>
-      <workItem from="1606119448149" duration="26858000" />
+      <workItem from="1606119448149" duration="52402000" />
     </task>
     <servers />
   </component>
@@ -68,5 +74,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="64" key="#Code_Folding" timestamp="1606322740770">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="457" y="64" key="#Code_Folding/0.0.1280.800@0.0.1280.800" timestamp="1606322740770" />
   </component>
 </project>
