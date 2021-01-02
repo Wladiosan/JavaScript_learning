@@ -1,0 +1,36 @@
+.navBar {
+    height: 150px;
+    background-color: #efece5;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navLogo {
+    margin-left: 5%;
+    width: 130px;
+    height: 130px;
+}
+
+.navLogo img {
+    height: 100%;
+    width: 100%;
+}
+
+.navMenu {
+    display: flex;
+    flex-direction: row;
+    margin-right: 15%;
+}
+
+.menuItem {
+    margin-left: 10%;
+}
+
+.menuItem a {
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    color: #523632;
+}

@@ -19,10 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b47fc3cf-89a5-493c-a11c-a528b417e28e" name="Default Changelist" comment="">
+    <list default="true" id="89fc361b-2dc1-44d4-99f6-56dfc3dee59b" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../../Site/my-app/src/components/App.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Site/my-app/src/components/App.module.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Site/my-app/src/components/NavBar/NavBar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-theory/src/Car/Car.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Site/my-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Site/my-app/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Site/my-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Site/my-app/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Site/my-app/public/favicon.ico" beforeDir="false" />
@@ -36,6 +37,7 @@
       <change beforePath="$PROJECT_DIR$/../../Site/my-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Site/my-app/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Site/my-app/src/logo.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Site/my-app/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../btstrp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../btstrp/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +47,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1kgPpe7t7tHTZtzKxhmY1J5s3ut" />
+  <component name="ProjectId" id="1lQR8LIucPZCC37X0XcUjhsZbXC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -61,13 +62,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b47fc3cf-89a5-493c-a11c-a528b417e28e" name="Default Changelist" comment="" />
-      <created>1606119446521</created>
+      <changelist id="89fc361b-2dc1-44d4-99f6-56dfc3dee59b" name="Default Changelist" comment="" />
+      <created>1607527167899</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1606119446521</updated>
-      <workItem from="1606119448149" duration="52402000" />
-      <workItem from="1606784234485" duration="30000" />
+      <updated>1607527167899</updated>
+      <workItem from="1607527169202" duration="35000" />
     </task>
     <servers />
   </component>
@@ -84,12 +84,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="457" y="64" key="#Code_Folding" timestamp="1606322740770">
-      <screen x="0" y="0" width="1280" height="800" />
-    </state>
-    <state x="457" y="64" key="#Code_Folding/0.0.1280.800@0.0.1280.800" timestamp="1606322740770" />
   </component>
 </project>

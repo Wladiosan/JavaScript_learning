@@ -1,0 +1,10 @@
+.btnToggle {
+    width: 200px;
+    height: 50px;
+    font-size: 15px;
+}
+
+.btnToggle:hover {
+    background-color: yellow;
+    color: green;
+}
