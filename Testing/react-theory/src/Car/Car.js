@@ -10,7 +10,7 @@ class Car extends React.Component {
 
     shouldComponentUpdate(nextProps, nextState) {
         console.log('Car shouldComponentUpdate', nextProps, nextState)
-        return true
+        return nextProps.name.trim() !== this.state.name.trim()
     }
 
     componentWillUpdate(nextProps, nextState) {
@@ -22,6 +22,8 @@ class Car extends React.Component {
     }
 
     render() {
+        console.log('Car run render')
+
         const inputClasses = ['input']
         const styleDiv = {
             border: '1px solid #ccc',
