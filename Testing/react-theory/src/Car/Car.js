@@ -10,19 +10,38 @@ class Car extends React.Component {
 
     shouldComponentUpdate(nextProps, nextState) {
         console.log('Car shouldComponentUpdate', nextProps, nextState)
-        return nextProps.name.trim() !== this.state.name.trim()
+        return nextProps.name.trim() !== this.props.name.trim()
     }
 
     componentWillUpdate(nextProps, nextState) {
         console.log('Car componentWillUpdate', nextProps, nextState)
     }
 
+    /*static getDerivedStateFromProps(nextProps, prevState) {
+        console.log('getDerivedStateFromProps', nextProps, prevState)
+        return  prevState
+    }*/
+
     componentDidUpdate() {
         console.log('Car componentDidUpdate')
     }
 
+
+    // Сохранение информации до перерисовки (рендера) компонента
+    /*getSnapshotBeforeUpdate(prevProps, prevState) {
+        console.log('Car getSnapshotBeforeUpdate')
+    }*/
+
+    componentWillUnmount() {
+        console.log('componentWillUnmount')
+    }
+
     render() {
         console.log('Car run render')
+        
+        if (Math.random() > 0.7){
+             throw new Error('Car random failed ')
+        }
 
         const inputClasses = ['input']
         const styleDiv = {
