@@ -3,12 +3,14 @@ import React from 'react'
 export default class ErrorBoundary extends React.Component {
 
     state = {
+        // state.hasError - Наличие ошибки в компоненте (Car)
         hasError: false
     }
 
-    componentDidCatch(error, info) {
+    // Ф-ция при наличии Error в компоненте Car меняет state.hasError на true
+    /* componentDidCatch(error, info) {
         this.setState({hasError: true})
-    }
+    }*/
 
     render() {
         if (this.state.hasError) {

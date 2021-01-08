@@ -4,6 +4,8 @@ import Car from "./Car/Car";
 import ErrorBoundary from "./ErrorBoundary/ErrorBoundary";
 import Counter from "./Counter/Counter";
 
+export const ClickedContext = React.createContext(false)
+
 export default class App extends Component {
 
     constructor(props) {
@@ -15,7 +17,8 @@ export default class App extends Component {
                 {name: 'Mazda', year: 2010}
             ],
             pageTitle: 'React components',
-            showCars: false
+            showCars: false,
+            clicked: false
         }
     }
 
@@ -41,14 +44,6 @@ export default class App extends Component {
         this.setState({cars})
     }
 
-    /*componentWillMount() {
-        console.log('App run componentWillMount')
-    }*/
-
-    componentDidMount() {
-        console.log('App run componentDidMount')
-    }
-
     render() {
         console.log('App run Render')
         const divStyle = {
@@ -63,6 +58,7 @@ export default class App extends Component {
                         key={index}
                     >
                         <Car
+                            index={index}
                             name={car.name}
                             year={car.year}
                             onChangeName={(event) => {
@@ -80,12 +76,24 @@ export default class App extends Component {
         return (
             <div className="App" style={divStyle}>
                 <h1>{this.state.pageTitle}</h1>
-                <Counter />
-                <hr />
+
+                <ClickedContext.Provider value={this.state.clicked}>
+                    <Counter />
+                </ClickedContext.Provider>
+                <hr/>
+
                 <button className={'btnToggle'} onClick={() => {
                     this.toggleCarsHandler()
                 }}>Toggle cars
                 </button>
+                <hr/>
+                <button className={'btnToggle'} onClick={() => {
+                    if (this.state.clicked === !true) {
+                        this.setState({clicked: true})
+                    } else this.setState({clicked: false})
+                }}>Change click
+                </button>
+                <hr/>
                 <div style={{
                     width: '400px',
                     margin: 'auto',
