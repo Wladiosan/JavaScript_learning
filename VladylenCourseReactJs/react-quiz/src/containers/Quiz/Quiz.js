@@ -6,9 +6,6 @@ import FinishedQuiz from '../../components/FinishedQuiz/FinishedQuiz'
 class Quiz extends Component {
 
     state = {
-        isFinished: false,
-        activeQuestion: 0,
-        answerState: null, // { [id]: 'success', 'error' }
         quiz: [
             {
                 id: 1,
@@ -32,18 +29,18 @@ class Quiz extends Component {
                 ],
                 rightAnswer: 3
             }
-        ]
+        ],
+        activeQuestion: 0,
+        answerState: null, // { [id]: 'success', 'error' }
+        isFinished: true,
+        result: {} // { [id]: 'success', 'error' }
     }
 
     onAnswerClickHandler = (answerId) => {
-        // Фикс бага двойной клик по правильному ответу, что приводит к переносу второго клика на новый (второй) вопрос
-        if (this.state.answerState) {
-            const key = Object.keys(this.state.answerState)[0]
-            if (this.state.answerState[key] === 'succes') {
-                return
-            }
-        }
         const question = this.state.quiz[this.state.activeQuestion]
+        const results = this.state.result
+
+        // Проверка совпадение правильного ответа с переходом и задержкой на новый вопрос
         if (question.rightAnswer === answerId) {
             console.log('AnswerId ', answerId)
             this.setState({answerState: {[answerId]: 'succes'}})
@@ -60,6 +57,14 @@ class Quiz extends Component {
                 window.clearTimeout(timeout)
             }, 1000)
         } else this.setState({answerState: {[answerId]: 'error'}})
+
+        // Фикс бага двойной клик по правильному ответу, что приводит к переносу второго клика на новый (второй) вопрос
+        if (this.state.answerState) {
+            const key = Object.keys(this.state.answerState)[0]
+            if (this.state.answerState[key] === 'succes') {
+                return
+            }
+        }
     }
 
     // Проверка количества вопросов из всего, return (true or false)
@@ -74,8 +79,8 @@ class Quiz extends Component {
                     <h1>Ответьте на все вопросы</h1>
                     {
                         this.state.isFinished
-                         ? <FinishedQuiz />
-                         : <ActiveQuiz
+                            ? <FinishedQuiz/>
+                            : <ActiveQuiz
                                 answers={this.state.quiz[this.state.activeQuestion].answers}
                                 question={this.state.quiz[this.state.activeQuestion].question}
                                 onAnswerClick={this.onAnswerClickHandler}

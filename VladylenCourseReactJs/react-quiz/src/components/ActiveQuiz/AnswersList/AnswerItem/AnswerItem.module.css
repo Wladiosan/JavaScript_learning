@@ -6,9 +6,11 @@
     cursor: pointer;
 }
 
+/*
 .AnswerItem {
     list-style: none;
 }
+*/
 
 .AnswerItem:hover {
     background: rgba(255, 255, 255, .2);
