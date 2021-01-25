@@ -37,6 +37,7 @@ class Layout extends Component {
                     onClose={this.menuCloseHandler}
                 />
 
+                {/*Контент страницы*/}
                 <main>
                     {this.props.children}
                 </main>
