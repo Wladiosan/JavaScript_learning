@@ -97,9 +97,9 @@ class Quiz extends Component {
         })
     }
 
-    componentDidMount() {
+    async componentDidMount() {
         // отображение id в адресной строке QuizList
-        /*console.log('Quiz ID = ', this.props.match.params.id)*/
+        console.log('Quiz ID = ', this.props.match.params.id)
     }
 
     render() {
