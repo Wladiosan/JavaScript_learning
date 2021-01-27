@@ -1,11 +1,11 @@
 import React, {Component} from 'react'
 import classes from './QuizCreator.module.css'
-import Button from "../../components/UI/Button/Button";
+import Button from "../../components/UI/Button/Button"
 import {createControl, validate, validateForm} from '../../form/formFramework'
-import Input from "../../components/UI/Input/Input";
-import Auxiliary from "../../hoc/Auxiliary/Auxiliary";
-import Select from "../../components/UI/Select/Select";
-import axios from "axios";
+import Input from "../../components/UI/Input/Input"
+import Auxiliary from "../../hoc/Auxiliary/Auxiliary"
+import Select from "../../components/UI/Select/Select"
+import axios from "../../axios/axios-quiz"
 
 // Сокращение дублирование кода функции createControl() для state.formControls.option
 function createOptionControl(number) {
@@ -73,7 +73,7 @@ export default class QuizCreator extends Component {
     createQuizHandler = async event => {
         event.preventDefault()
         try {
-            await axios.post('https://quiz-27e86-default-rtdb.firebaseio.com/quiz.json', this.state.quiz)
+            await axios.post('quiz.json', this.state.quiz)
             this.setState({
                 quiz: [],
                 isFormValid: false,
@@ -155,12 +155,16 @@ export default class QuizCreator extends Component {
                             type='primary'
                             onClick={this.addQuestionHandler}
                             disabled={!this.state.isFormValid}
-                        >Добавить вопрос</Button>
+                        >
+                            Добавить вопрос
+                        </Button>
                         <Button
                             type='success'
                             onClick={this.createQuizHandler}
                             disabled={this.state.quiz.length === 0}
-                        >Создать тест</Button>
+                        >
+                            Создать тест
+                        </Button>
 
                     </form>
                 </div>
