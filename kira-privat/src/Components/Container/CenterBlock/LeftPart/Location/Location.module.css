@@ -1,0 +1,65 @@
+.Location {
+    height: 213px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.LocationLogo {
+    height: 50px;
+    color: #aeaeae;
+    border-radius: 5px 5px 0 0;
+    background: #464646;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+.LocationLogo img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.LocationPlaces {
+    display: flex;
+    flex-direction: row;
+}
+
+.LeftSide, .RightSide {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+
+}
+
+.LeftSide>div {
+    margin-bottom: 1px;
+    margin-right: 1px;
+    color: #696969;
+    background: #373737;
+    height: 40px;
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+
+}
+
+.RightSide>div {
+    margin-bottom: 1px;
+    color: #aeaeae;
+    background: #373737;
+    height: 40px;
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.LeftSideEnd {
+    border-radius: 0 0 0 5px;
+}
+
+.RightSideEnd {
+    border-radius: 0 0 5px 0;
+}

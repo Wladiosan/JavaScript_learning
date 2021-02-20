@@ -1,0 +1,107 @@
+* {
+    margin: 0 auto;
+}
+
+.wrapper {
+    margin-top: 15vh;
+    width: 450px;
+    height: 500px;
+    border: 2px solid #eee;
+    border-radius: 8px;
+    background-color: transparent;
+    box-sizing: border-box;
+    padding: 48px 40px 36px 40px;
+    font-family: 'Google Sans','Noto Sans Myanmar UI', arial, sans-serif;
+}
+
+.google-logo {
+    text-align: center;
+}
+
+.google-enter {
+    text-align: center;
+    color: #202124;
+
+}
+
+.google-enter h1{
+    padding-top: 16px;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.google-enter h2{
+    padding-top: 16px;
+    padding-bottom: 30px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.input-block {
+    position: relative;
+}
+
+.input-block input {
+    position: relative;
+    width: 100%;
+    height: 50px;
+    border: 2px solid #eee;
+    border-radius: 3px;
+    font-size: 20px;
+    box-sizing: border-box;
+    padding-left: 15px;
+    z-index: 2;
+    background-color: #fff;
+}
+
+.input-block span {
+    position: absolute;
+    color: gray;
+    width: 222px;
+    height: 18px;
+    bottom: 15px;
+    left: 15px;
+    z-index: 1;
+}
+
+.input-block input[value=""] {
+    background-color: transparent;
+}
+
+.input-block input:focus + span {
+    top: -10px;
+    color: #1a73e8;
+    font-size: 12px;
+    width: 170px;
+    background-color: #fff;
+    padding-left: 3px;
+    padding-right: 3px;
+    z-index: 3;
+}
+
+/*.input-block input:focus + span, input:not([value=""]) + span {
+    top: 0;
+    background-color: red;
+    padding-left: 3px;
+    padding-right: 3px;
+    z-index: 3;
+}*/
+
+/*
+
+.google-input input:not([value=""]) {
+    background-color: lightblue;
+}
+
+.google-input span {
+    position: absolute;
+    left: 10px;
+    bottom: 4px;
+    transition: .3s;
+    z-index: 1;
+}
+
+.google-input input:focus + span, .google-input input:not([value=""]) + .google-input span {
+
+}
+*/

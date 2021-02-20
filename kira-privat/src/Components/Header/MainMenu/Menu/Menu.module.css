@@ -1,0 +1,33 @@
+.Menu {
+    display: flex;
+    flex-direction: row;
+}
+
+.Menu a {
+    text-decoration: none;
+}
+
+.MenuItem {
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 50px;
+    border-right: 1px solid #232323;
+    color: #fd7e14;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+
+.MenuItemFirst {
+    border-left: 1px solid #232323;
+}
+
+.MenuItem:hover {
+    background: #3f3f3f;
+}
+
+.MenuItem img {
+    width: 15px;
+    height: 15px;
+}
