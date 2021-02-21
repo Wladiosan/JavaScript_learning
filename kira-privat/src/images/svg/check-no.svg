@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: SketchAPI 2021.2.16.1 <https://api.sketch.io/> -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketchjs="https://sketch.io/dtd/" sketchjs:metadata="eyJuYW1lIjoiRHJhd2luZy0zLnNrZXRjaHBhZCIsImNsaXBQYXRoIjp7ImVuYWJsZWQiOnRydWUsInN0eWxlIjp7InN0cm9rZVN0eWxlIjoiYmxhY2siLCJsaW5lV2lkdGgiOjF9fSwiZGVzY3JpcHRpb24iOiJNYWRlIHdpdGggU2tldGNocGFkIiwibWV0YWRhdGEiOnt9LCJleHBvcnREUEkiOjcyLCJleHBvcnRGb3JtYXQiOiJzdmciLCJleHBvcnRRdWFsaXR5IjowLjk1LCJ1bml0cyI6InB4Iiwid2lkdGgiOjUwMCwiaGVpZ2h0Ijo1MDAsInBhZ2VzIjpbeyJ3aWR0aCI6NTAwLCJoZWlnaHQiOjUwMH1dLCJ1dWlkIjoiMjBkOTllODctYWViNS00NjE2LTkwZGQtNTZhNjU2MzYxYzg3In0=" width="500" height="500" viewBox="0 0 500 500" sketchjs:version="2021.2.16.1">
-<g sketchjs:tool="clipart" style="mix-blend-mode: source-over;" transform="matrix(1.3642542810051528,0,0,1.3642542810051528,10.382812499999998,-98.12471748041222)">
-	<path d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z" sketchjs:uid="1" style="fill: #ff666e; fill-opacity: 1;"/>
-</g>
-</svg>

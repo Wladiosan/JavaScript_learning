@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: SketchAPI 2021.2.16.1 <https://api.sketch.io/> -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketchjs="https://sketch.io/dtd/" sketchjs:metadata="eyJuYW1lIjoiRHJhd2luZy0xLnNrZXRjaHBhZCIsImNsaXBQYXRoIjp7ImVuYWJsZWQiOnRydWUsInN0eWxlIjp7InN0cm9rZVN0eWxlIjoiYmxhY2siLCJsaW5lV2lkdGgiOjF9fSwiZGVzY3JpcHRpb24iOiJNYWRlIHdpdGggU2tldGNocGFkIiwibWV0YWRhdGEiOnt9LCJleHBvcnREUEkiOjcyLCJleHBvcnRGb3JtYXQiOiJzdmciLCJleHBvcnRRdWFsaXR5IjowLjk1LCJ1bml0cyI6InB4Iiwid2lkdGgiOjUwMCwiaGVpZ2h0Ijo1MDAsInBhZ2VzIjpbeyJ3aWR0aCI6NTAwLCJoZWlnaHQiOjUwMH1dLCJ1dWlkIjoiYTQ0YzhiMGMtM2Q2ZC00NTg4LWFjN2QtMzFkYjk3OWExMmE3In0=" width="500" height="500" viewBox="0 0 500 500" sketchjs:version="2021.2.16.1">
-<g sketchjs:tool="clipart" style="mix-blend-mode: source-over;" transform="matrix(0.9047173024523161,0,0,0.9047173024523162,19,20.186648501362207)">
-	<path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z" sketchjs:uid="1" style="fill: #fd7e14; fill-opacity: 1;"/>
-</g>
-</svg>

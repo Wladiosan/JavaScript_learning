@@ -1,0 +1,15 @@
+.container {
+    width: 100px;
+    height: 100px;
+    background: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: red;
+}
+
+.container:hover {
+    background: greenyellow;
+    color: blueviolet;
+}
+
