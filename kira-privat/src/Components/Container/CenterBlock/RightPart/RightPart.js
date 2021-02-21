@@ -3,6 +3,7 @@ import classes from './RightPart.module.css'
 import PhotoBlock from './PhotoBlock/PhotoBlock'
 import AboutInfo from './AboutInfo/AboutInfo'
 import Price from './Price/Price'
+import Services from './Services/Services'
 
 
 const RightPart = props => {
@@ -11,6 +12,7 @@ const RightPart = props => {
             <PhotoBlock />
             <AboutInfo />
             <Price />
+            <Services />
         </div>
     )
 }

@@ -11,12 +11,22 @@ const Price = props => {
             </div>
             <div className={classes.OtherPlaces}>
                 <div className={classes.LeftSide}>
-                    <div>Выезд</div>
-                    <div className={classes.LeftSideEnd}>Владение языками</div>
+                    <div>Время</div>
+                    <div>1 час</div>
+                    <div>2 часа</div>
+                    <div className={classes.LeftSideEnd}>Ночь</div>
+                </div>
+                <div className={classes.CenterSide}>
+                    <div>В апартаментах</div>
+                    <div>2000</div>
+                    <div>4000</div>
+                    <div>12000</div>
                 </div>
                 <div className={classes.RightSide}>
-                    <div>Апартаменты Гостиница</div>
-                    <div className={classes.RightSideEnd}>Русский Украинский Английский</div>
+                    <div>Выезд</div>
+                    <div>2000</div>
+                    <div>4000</div>
+                    <div className={classes.RightSideEnd}>12000</div>
                 </div>
             </div>
         </div>

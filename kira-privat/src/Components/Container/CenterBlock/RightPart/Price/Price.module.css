@@ -1,5 +1,5 @@
 .Price {
-    height: 500px;
+    height: 215px;
     border-radius: 5px;
     margin-bottom: 10px;
 }
@@ -27,33 +27,33 @@
     flex-direction: row;
 }
 
-.LeftSide, .RightSide {
+.LeftSide, .CenterSide, .RightSide {
     display: flex;
     flex-direction: column;
     width: 50%;
+}
 
+.LeftSide>div, .CenterSide>div, .RightSide>div {
+    margin-bottom: 1px;
+    background: #373737;
+    display: flex;
+    align-items: center;
+    height: 40px;
+    padding-left: 20px;
 }
 
 .LeftSide>div {
-    margin-bottom: 1px;
     margin-right: 1px;
     color: #696969;
-    background: #373737;
-    height: 65px;
-    padding-left: 20px;
-    display: flex;
-    align-items: center;
+}
 
+.CenterSide>div {
+    margin-right: 1px;
+    color: #aeaeae;
 }
 
 .RightSide>div {
-    margin-bottom: 1px;
     color: #aeaeae;
-    background: #373737;
-    height: 65px;
-    padding-left: 20px;
-    display: flex;
-    align-items: center;
 }
 
 .LeftSideEnd {
