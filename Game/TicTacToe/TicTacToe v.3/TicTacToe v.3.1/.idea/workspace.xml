@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6509833a-e110-4d60-9a7b-deb53dfcf215" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Applications/Slider/Slider v.2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Applications/Slider/Slider v.2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Applications/Slider/Slider v.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Applications/Slider/Slider v.2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
   <component name="ProjectId" id="1jnESI1FnxHrzrWmQ4OBskPTAFq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -55,6 +55,7 @@
       <workItem from="1604431460128" duration="15619000" />
       <workItem from="1604585449088" duration="79000" />
       <workItem from="1604585663530" duration="1747000" />
+      <workItem from="1614851422836" duration="625000" />
     </task>
     <servers />
   </component>
